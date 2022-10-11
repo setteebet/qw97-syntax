@@ -1,18 +1,18 @@
 {
   "name": "qw97-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยแอป✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยแอป",
-"เว็บหวยฮานอยออนไลน์",
-"lottovip app",
-"หวยเว็บออนไลน์",
-"lottovip99"
-],
+  "version": "0.2.0",
+  "description": "หวยแอป✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยแอป",
+    "เว็บหวยฮานอยออนไลน์",
+    "lottovip app",
+    "หวยเว็บออนไลน์",
+    "lottovip99"
+  ],
   "repository": "https://github.com/setteebet/qw97-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
